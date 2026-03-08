@@ -1,0 +1,3 @@
+C:\Users\berra\Downloads\Dijital_Proje-main\Dijital_Proje-main\kullanici.c\dijital_projemiz\dijital_projemiz\obj\Debug\dijital_projemiz.csproj.AssemblyReference.cache
+C:\Users\berra\Downloads\Dijital_Proje-main\Dijital_Proje-main\kullanici.c\dijital_projemiz\dijital_projemiz\obj\Debug\dijital_projemiz.Form1.resources
+C:\Users\berra\Downloads\Dijital_Proje-main\Dijital_Proje-main\kullanici.c\dijital_projemiz\dijital_projemiz\obj\Debug\dijital_projemiz.csproj.GenerateResource.cache
